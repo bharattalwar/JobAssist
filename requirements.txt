@@ -1,0 +1,8 @@
+# jobAssist dependencies (pinned to versions verified on Python 3.14).
+# Install into a venv:  python -m pip install -r requirements.txt
+pandas==3.0.3
+requests==2.34.2
+rapidfuzz==3.14.5
+pdfplumber==0.11.10
+python-dotenv==1.2.2
+openpyxl==3.1.5
